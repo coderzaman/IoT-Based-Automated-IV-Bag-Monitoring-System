@@ -107,14 +107,17 @@ This repository contains the code and documentation for an **IoT-Based Automated
 
 ## **Screenshots**
 
-**Blynk Dashboard**
+**1. Blynk Dashboard**
+
   ![image](https://github.com/user-attachments/assets/d42f99b3-ef7a-431f-83b4-8fd98cd40774)
 
-**Hardware Setup**
+
+**2. Hardware Setup**
 
   ![Circuit_Design](https://github.com/user-attachments/assets/2a949121-b46b-4827-82d2-83d97548cbad)
 
-**Notifications**
+
+**3. Notifications**
   
   ![WhatsApp Image 2024-11-19 at 4 56 44 PM](https://github.com/user-attachments/assets/fa03c2c9-f3a7-406e-b855-0b150d59b96e)
 
